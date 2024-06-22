@@ -10,7 +10,7 @@
 - **Tools**: ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tarektarho&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats-ochre-mu-55.vercel.app/api?username=tarektarho&include_all_commits=flase&show_icons=true&hide_border=true)
 
 
 ## Contact Me

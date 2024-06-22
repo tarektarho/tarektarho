@@ -1,4 +1,4 @@
-# Hi there, I'm Tarek Tarho 👋 ![Profile Views](https://komarev.com/ghpvc/?username=tarektarho&style=flat-square)
+# Hi there, I'm Tarek Tarho 👋
 
 <!--
 ## GitHub Stats

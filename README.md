@@ -17,12 +17,6 @@
 - **Frontend Development**: 
   ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
   ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js) 
-  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular) 
-  ![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=vuetify) 
-  ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat-square&logo=material-ui) 
-  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3) 
-  ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass) 
-  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5)
 
 - **Backend Development**: 
   ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) 

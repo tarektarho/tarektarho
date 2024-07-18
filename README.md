@@ -67,7 +67,9 @@
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
 
+<!--
 ![Your GitHub stats](https://github-readme-stats-ochre-mu-55.vercel.app/api?username=tarektarho&include_all_commits=flase&show_icons=true&hide_border=true)
+-->
 
 ## Contact Me
 - **Email**: [tarek_tarho@hotmail.com](mailto:tarek_tarho@hotmail.com)

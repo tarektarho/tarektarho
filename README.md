@@ -1,4 +1,4 @@
-# Hi there, I'm Tarek Tarho 👋
+# Hi there 👋
 
 <!--
 ## GitHub Stats

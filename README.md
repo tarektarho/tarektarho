@@ -42,6 +42,7 @@
 - **Backend as a Service (BaaS)**: 
   ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase) 
   ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+  ![Render](https://img.shields.io/badge/-Render-005571?style=flat-square&logo=render)
 
 - **Framework**: 
   ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django) 

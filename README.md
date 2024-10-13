@@ -22,6 +22,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) 
   ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql) 
   ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
+  ![Java](https://img.shields.io/badge/-Java-yellow?style=flat-square&logo=coffee)
 
 - **Database**: 
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) 

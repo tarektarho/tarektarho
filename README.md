@@ -52,6 +52,7 @@
 - **Testing**: 
   ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress) 
   ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest)
+  ![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest)
   ![PHPUnit](https://img.shields.io/badge/-PHPUnit-6D0EB5?style=flat-square&logo=php)
 
 - **Authentication and Authorization**:

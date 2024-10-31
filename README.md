@@ -75,7 +75,6 @@
 -->
 
 ## Contact Me
-- **Email**: [tarek_tarho@hotmail.com](mailto:tarek_tarho@hotmail.com)
 - **LinkedIn**: [Tarek Tarho](https://www.linkedin.com/in/tarek-tarho)
 
 <!--

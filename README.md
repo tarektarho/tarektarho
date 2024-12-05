@@ -61,7 +61,7 @@
   ![Auth0](https://img.shields.io/badge/-Auth0-EB5424?style=flat-square&logo=auth0)
   ![Firebase Authentication](https://img.shields.io/badge/-Firebase%20Authentication-FFCA28?style=flat-square&logo=firebase)
 
-- **Software**: 
+- **Tools**: 
   ![InVision](https://img.shields.io/badge/-InVision-FF3366?style=flat-square&logo=invision) 
   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma) 
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)

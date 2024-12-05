@@ -1,10 +1,49 @@
-# Hi there 👋
+# 👋 Hi there, I’m Tarek Tarho!
 
+🚀 Passionate **Software Engineer** with expertise in **Frontend and Backend Development**, specializing in creating robust, scalable, and user-friendly applications. I thrive on solving complex problems with creative solutions and am committed to lifelong learning in the tech world.
+
+---
+
+## 🔧 **Tech Stack & Expertise**
+
+### **Frontend Development**
+- Frameworks: **React.js**, **Vue.js**
+- Languages: **JavaScript (ES6+), TypeScript**
+- Styling: **CSS, SCSS**
+
+### **Backend Development**
+- Languages: **Node.js**, **PHP**, **Java**, **Python**
+- Frameworks: **Spring Boot (Java)**, **Express.js (Node.js)**, **Django (Python)**, **Laravel (PHP)**
+
+### **Databases**
+- **Relational Databases**: **PostgreSQL**, **MySQL**, **MariaDB**
+- **NoSQL Databases**: **MongoDB**, **Firebase**
+
+### **Tools & DevOps**
+- Version Control: **Git, GitHub, GitLab**
+- Build Tools: **Vite, Webpack**
+- Testing: **Jest, React Testing Library, Vitest**
+- CI/CD: **GitHub Actions**, **Docker**
+
+### **Other Skills**
+- **RESTful APIs**, **GraphQL**
+- State Management: **Redux Toolkit, Pinia, Vuex**
+- Multi-language support: **i18n**
+- **NoSQL and Relational Database Optimization**
+
+---
+
+## 🌱 **What I’m Learning**
+- Advanced **TypeScript** techniques for large-scale applications.
+- Server-side rendering with **Next.js** and **Nuxt.js**.
+- Database scaling strategies with **PostgreSQL** and **MongoDB**.
+
+---
 <!--
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tarektarho&show_icons=true&theme=radical) 
 -->
-
+<!--
 ## 🚀 Skills
 - **Languages**: 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
@@ -69,6 +108,7 @@
 - **Other**: 
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
+  -->
 
 <!--
 ![Your GitHub stats](https://github-readme-stats-ochre-mu-55.vercel.app/api?username=tarektarho&include_all_commits=flase&show_icons=true&hide_border=true)

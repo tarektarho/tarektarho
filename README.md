@@ -2,8 +2,9 @@
 
 🚀 Passionate **Software Engineer** with expertise in **Frontend and Backend Development**, specializing in creating robust, scalable, and user-friendly applications. I thrive on solving complex problems with creative solutions and am committed to lifelong learning in the tech world.
 
----
+<!--
 
+---
 ## 🔧 **Tech Stack & Expertise**
 
 ### **Frontend Development**
@@ -32,13 +33,14 @@
 - **NoSQL and Relational Database Optimization**
 
 ---
+-->
 
 ## 🌱 **What I’m Learning**
 - Advanced **TypeScript** techniques for large-scale applications.
-- Server-side rendering with **Next.js** and **Nuxt.js**.
+- Building REST-API Appilcations with **Java** and **Spring Boot**.
 - Database scaling strategies with **PostgreSQL** and **MongoDB**.
-
 ---
+
 <!--
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tarektarho&show_icons=true&theme=radical) 

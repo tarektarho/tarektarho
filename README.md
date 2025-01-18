@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Tarek Tarho!
+# 👋 Hi there, I’m Tarek!
 
 🚀 Passionate **Software Engineer** with expertise in **Frontend and Backend Development**, specializing in creating robust, scalable, and user-friendly applications. I thrive on solving complex problems with creative solutions and am committed to lifelong learning in the tech world.
 

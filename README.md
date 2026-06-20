@@ -6,6 +6,7 @@ I build frontend platforms, scalable product architectures, and engineering work
 
 With a background in product engineering and technical leadership, I focus on transforming frontend ecosystems from **“it works”** into **“it scales.”**
 
+<!--
 ---
 
 ## Areas of Expertise
@@ -29,6 +30,7 @@ Shipping fast, accessible, and reliable user experiences.
 ### Technical Leadership
 
 Mentoring engineers, setting engineering standards, and driving architecture decisions.
+
 
 ---
 
@@ -63,6 +65,7 @@ Backend:
   - PostgreSQL
   - MongoDB
 ```
+-->
 
 ---
 
